@@ -1,3 +1,5 @@
 # Practical-scheme
 
-We maintain a Scheme implementation Gauche and related projects.
+We maintain Gauche, a Scheme implementation, and related projects.
+
+See https://practical-scheme.net/gauche for the details.
